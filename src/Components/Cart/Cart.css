@@ -1,0 +1,22 @@
+.cart-img{
+    width: 100px;
+    height: 100px;
+    }
+    
+    .cart-container{
+        position: absolute;
+        background: #17a2b8;
+        color: white;
+        padding: 10px;
+    
+    }
+    .order-proceed{
+        margin-top: 150px;
+    }
+    .order-proceed-btn{
+        /* margin-top: 150px; */
+        padding: 7px 90px;
+    }
+    .delete-btn{
+        height: 30px;
+    }

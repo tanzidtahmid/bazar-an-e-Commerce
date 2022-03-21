@@ -1,0 +1,12 @@
+.proceed-main-container{
+    background-color: #f6f7f9;
+}
+.proceed-item{
+    width: 50%;
+}
+.proceed-item-one{
+    width: 200px;
+}
+.proceed-item-one>p{
+    margin: 0;
+}

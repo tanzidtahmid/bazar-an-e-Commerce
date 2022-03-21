@@ -1,0 +1,55 @@
+.warranty{
+    background-color: #e1e9f8;
+}
+.ShopBtn{
+    padding : 10px 115px;
+}
+.cart-button{
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+.Single-man-pd-container{
+    /* border: 2px solid tomato; */
+    border-radius: 10px;
+}
+.cart-img{
+    height: 80px;
+    width: 80px;
+}
+.cart-container{
+    /* width : 200px; */
+    position: absolute;
+    top: 0;
+    /* left: 0; */
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+.cart-item{
+    /* padding: 10px 32px; */
+    background-color: tomato;
+}
+
+@media(max-width:2560px) and (min-width: 1440px){
+    .ShopBtn{
+        padding : 10px 300px;
+    }
+}
+
+@media(max-width:1440px) and (min-width: 1024px){
+    .ShopBtn{
+        padding : 10px 120px;
+    }
+}
+
+@media(max-width:1024px) and (min-width: 768px){
+    .ShopBtn{
+        padding : 10px 52px;
+    }
+}
+
+@media(max-width:425px) {
+    .ShopBtn{
+        padding : 10px 75px;
+    }
+}

@@ -1,0 +1,8 @@
+.sidebar{
+    background-color: #343a40;
+    color: white;
+    height: 100vh;
+}
+.unorder-list{
+    list-style: none;
+}
